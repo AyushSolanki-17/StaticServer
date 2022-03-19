@@ -1,13 +1,13 @@
 [
     {
         "name": "Our Planet | Forests",
-        "rating":5,
+        "rating":5.0,
         "thumbnail":"Ourplanet.jpg",
         "video":"https://www.youtube.com/watch?v=JkaxUblCGz0"
     },
     {
         "name": "Last to Wild",
-        "rating":3,
+        "rating":3.0,
         "thumbnail":"Lasttowild.jpg",
         "video":"https://youtube.com/watch?v=Q6a_CqE_B4o"
     },
@@ -25,7 +25,7 @@
     },
     {
         "name": "Magical Moors",
-        "rating":3,
+        "rating":3.0,
         "thumbnail":"Magicalmoors.jpg",
         "video":"https://www.youtube.com/watch?v=LxYT7QMT_pA"
     }
